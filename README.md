@@ -3,4 +3,3 @@ This project is part of the Odin Project curriculum. It involves creating a coll
 - Structuring web pages using HTML
 - Styling web pages using CSS
 - Using Git for version control
-- Writing clear and concise documentation
